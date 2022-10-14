@@ -1,0 +1,6 @@
+소스트리 한글 설정
+[i18n]
+    logOutputEncoding = euc-kr
+    commitEncoding = UTF-8
+
+추가하기
